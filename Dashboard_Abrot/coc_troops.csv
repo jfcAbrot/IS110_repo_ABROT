@@ -1,0 +1,6 @@
+Troop,HP,Damage,Housing,Training_Cost
+Barbarian,125,20,1,100
+Archer,100,30,1,200
+Giant,700,50,5,1500
+Wizard,230,90,4,3500
+Dragon,1900,140,20,25000
